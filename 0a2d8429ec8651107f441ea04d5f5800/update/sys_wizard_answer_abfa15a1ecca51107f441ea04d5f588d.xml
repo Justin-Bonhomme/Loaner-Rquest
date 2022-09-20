@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Infinity</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Infinity</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">d646a8eb551201107f44d7f62dcafe41</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-20 00:28:14</sys_created_on>
+        <sys_id>abfa15a1ecca51107f441ea04d5f588d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Infinity</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">0a2d8429ec8651107f441ea04d5f5800</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">0a2d8429ec8651107f441ea04d5f5800</sys_scope>
+        <sys_update_name>sys_wizard_answer_abfa15a1ecca51107f441ea04d5f588d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-20 00:28:14</sys_updated_on>
+        <table/>
+        <target_url>x_cdltd_loaner_req_u_cmdb_ci_hardware_infinity.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
